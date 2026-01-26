@@ -4,7 +4,7 @@
 <a href="https://github.com/wookie3739"><img  style="height:199px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wookie3739&layout=compact&theme=nord&hide_border=true" /></a> 
 
 ## ABOUT ME
-[![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/8f6ac6b4c8a5466aa65ef69840d3a317)
+[![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)]([https://www.notion.so/8f6ac6b4c8a5466aa65ef69840d3a317](https://www.notion.so/2a66f41133c88025bee0eacfbc30d388?v=2a66f41133c88052ad16000cd3abd846))
 [![Velog](https://img.shields.io/badge/Velog-%23F39C12.svg?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@dnlsemtmf/posts)
 
 
